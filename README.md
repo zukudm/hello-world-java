@@ -18,7 +18,7 @@ Notice that `System.out.println("Hello world!");` shows the string `"Hello world
 
 ## Compile program
 
-To compile the "Hello World" program, type the following:
+To compile the "Hello World" program, type the following (It simple!!!:
 
 ```console
 javac HelloWorld.java
