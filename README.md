@@ -1,6 +1,6 @@
 # Hello world with Java :coffee:
 
-This is a simple **"Hello world"** done with **Java** programming language.
+This is a simple **"Hello world"** done with **Java** programming language. But a little bit changed
 
 ## Source code
 
@@ -18,7 +18,7 @@ Notice that `System.out.println("Hello world!");` shows the string `"Hello world
 
 ## Compile program
 
-To compile the "Hello World" program, type the following:
+To compile the "Hello World" program, type the following (It simple!!!:
 
 ```console
 javac HelloWorld.java
